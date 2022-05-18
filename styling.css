@@ -1,0 +1,17 @@
+button{
+    border-color: rgba(10, 121, 224, 0.842);
+    border-radius: 13px;
+    padding: 3px;
+    background-color: white;
+    font-size: 15px;
+    width: auto;
+    height: 10%;
+    padding: 10px;
+}
+#head>img{
+    height: 30px;
+    width:70px;
+    margin-left: 25%;
+    margin-top: -10px; 
+    height: 50px;
+}
